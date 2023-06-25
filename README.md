@@ -5,6 +5,8 @@ https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 Add the above files to the same folder as the dataset.
 
+You can try changing the HyperParameters. Your accuracy will vary.
+
 Run the model through command line by typing python gui.py
 
 The Output:
